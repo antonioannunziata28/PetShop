@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="/Users/antonio/workspace_betacom/driver/eclipselink/jlib/jpa/javax.persistence_2.1.0.v201304241213.jar"/>
+	<classpathentry kind="lib" path="/Users/antonio/workspace_betacom/driver/eclipselink/jlib/eclipselink.jar"/>
+	<classpathentry kind="lib" path="/Users/antonio/workspace_betacom/driver/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/antonio/workspace_betacom/driver/opencsv-5.8.jar"/>
+	<classpathentry kind="lib" path="/Users/antonio/workspace_betacom/driver/commons-lang3-3.14.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
